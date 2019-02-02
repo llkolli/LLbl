@@ -1,4 +1,5 @@
 The Rainbow colours are
+Unicorn
 Violet,
 indigo
 blue
@@ -6,3 +7,4 @@ green
 yellow
 orange
 red
+unicorn
