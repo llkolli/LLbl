@@ -9,6 +9,4 @@ yellow
 orange
 red
 unicorn
-********************
-00000000000000000000000000
 ponies
